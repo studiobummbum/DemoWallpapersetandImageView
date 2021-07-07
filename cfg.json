@@ -4,38 +4,38 @@
   "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-3940256099942544~3347511713,
+    "ad_g_appid":ca-app-pub-4335655981914611~7911633398,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-8813777174923946/1692123250,
+        "ad_pid":ca-app-pub-4335655981914611/6406980037,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub-3940256099942544/1033173712,
+        "ad_pid":ca-app-pub-4335655981914611/6406980037,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-3940256099942544/1033173712,
+        "ad_pid":ca-app-pub-4335655981914611/6406980037,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":jl_video,
-        "ad_pid":ca-app-pub-3940256099942544/5224354917,
+        "ad_pid":ca-app-pub-4335655981914611/4352512390,
         "ad_source":admob,
         "ad_type":reward},        
       { 
         "ad_place":native,
-        "ad_pid":ca-app-pub-3940256099942544/2247696110,
+        "ad_pid":ca-app-pub-4335655981914611/5474022371,
         "ad_source":admob,
         "ad_type":native},    
       { 
         "ad_place":banner,
-        "ad_pid":ca-app-pub-3940256099942544/6300978111,
+        "ad_pid":ca-app-pub-4335655981914611/9033143377,
         "ad_source":admob,
         "ad_type":banner},  
       { 
