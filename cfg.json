@@ -4,13 +4,13 @@
   "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-4335655981914611~7911633398,
+    "ad_g_appid":ca-app-pub-9378724246417115~5319460776,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-4335655981914611/6406980037,
+        "ad_pid":/93656639/SS20CHD/SS20CHD_Interstitial,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
@@ -20,22 +20,22 @@
         "ad_type":interstitial},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-4335655981914611/6406980037,
+        "ad_pid":/93656639/SS20CHD/SS20CHD_Interstitial,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":jl_video,
-        "ad_pid":ca-app-pub-4335655981914611/4352512390,
+        "ad_pid":/93656639/SS20CHD/SS20CHD_Reward,
         "ad_source":admob,
         "ad_type":reward},        
       { 
         "ad_place":native,
-        "ad_pid":ca-app-pub-4335655981914611/5474022371,
+        "ad_pid":/93656639/SS20CHD/SS20CHD_Native,
         "ad_source":admob,
         "ad_type":native},    
       { 
         "ad_place":banner,
-        "ad_pid":ca-app-pub-4335655981914611/9033143377,
+        "ad_pid":/93656639/SS20CHD/SS20CHD_banner,
         "ad_source":admob,
         "ad_type":banner},  
       { 
