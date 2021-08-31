@@ -10,7 +10,7 @@
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":/93656639,22529492746/SS20CHD/SS20CHD_Interstitial,
+        "ad_pid":/6499/example/interstitial,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
